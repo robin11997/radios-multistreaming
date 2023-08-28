@@ -1,11 +1,11 @@
 <channel>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
+<station name="Circuito Exitos 99.9 FM" image="https://static.mytuner.mobi/media/tvos_radios/hSA2d4KhF6.png" link="https://acp4.lorini.net/proxy/ur2070?mp=%2Fstream"/>
+<station name="Unión Radio Noticias" image="https://static.mytuner.mobi/media/tvos_radios/48s2CFcwQF.png" link="https://acp4.lorini.net/proxy/ur2080?mp=%2Fstream"/>
+<station name="Fiesta FM" image="https://static.mytuner.mobi/media/tvos_radios/jKKvwXvm6k.png" link="https://server6.globalhostla.com:9012/stream"/>
+<station name="La Mega Estación" image="https://static.mytuner.mobi/media/tvos_radios/7ab2a4ux6G.jpg" link="https://acp4.lorini.net/proxy/ur2050?mp=%2Fstream"/>
+<station name="La Romántica" image="https://static.mytuner.mobi/media/tvos_radios/wK4bThKWJn.jpeg" link="https://server6.globalhostla.com:8068/stream"/>
+<station name="Onda La Superestación" image="https://static.mytuner.mobi/media/tvos_radios/qSWhvZZCgY.png" link="http://ur58.lorini.net:35002/stream"/>
+<station name="365 AMOR" image="https://static.mytuner.mobi/media/tvos_radios/8T3fGYLmkS.jpg" link="http://server6.globalhostla.com:9008/stream"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
