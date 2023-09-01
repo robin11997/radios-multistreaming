@@ -2,7 +2,7 @@
 <station name="Radio HRN 92.9 FM" image="https://static.mytuner.mobi/media/tvos_radios/tJ23vKtN5W.png" link="https://ice42.securenetsystems.net/HRN"/>
 <station name="Radio Globo Honduras" image="https://static.mytuner.mobi/media/tvos_radios/KT2K9R5hev.jpeg" link="https://stream.radiosmundiales.com/8016/stream"/>
 <station name="Musiquera" image="https://static.mytuner.mobi/media/tvos_radios/eaK38RgRtN.png" link="https://stream-156.zeno.fm/nsa6t0hzaphvv?zs=BHOl-EhCSo6yteseQtZrPA"/>
-<station name="Radio América" image="https://static.mytuner.mobi/media/tvos_radios/vYAJLeHd7j.png" link="https://21933.live.streamtheworld.com/AMERICAAAC_SC?dist=triton-web&pname=StandardPlayerV4"/>
+<station name="Radio América" image="https://static.mytuner.mobi/media/tvos_radios/vYAJLeHd7j.png" link="https://21933.live.streamtheworld.com/AMERICAAAC_SC?dist=triton-webpname=StandardPlayerV4"/>
 <station name="Power FM Honduras" image="https://static.mytuner.mobi/media/tvos_radios/ryncasvjvjcn.png" link="https://stream-148.zeno.fm/0eacaa8937zuv?zs=XreiGXrYRP22Ld6Yke2LWA"/>
 <station name="HCH Radio" image="https://static.mytuner.mobi/media/tvos_radios/zhpejuxklutj.jpg" link="https://hchradio.innovandote.com:8000/mountpoint"/>
 <station name="FM Fama 97.7" image="https://static.mytuner.mobi/media/tvos_radios/jhwUyNznv3.png" link="https://s9.myradiostream.com/:46498/listen.mp3?nocache=1693590370"/>
@@ -26,17 +26,17 @@
 <station name="Furia FM" image="https://static.mytuner.mobi/media/tvos_radios/bj56jgywnkn4.png" link="https://stream-159.zeno.fm/kuy61me8sc9uv?zs=Wai7bQCKTAyIMoweC-ov-w"/>
 <station name="Planes Radio Getsemani" image="https://static.mytuner.mobi/media/tvos_radios/6tqrxckckq7q.png" link="https://panel.yupistream.com/proxy/ysplanes/stream"/>
 <station name="SB Stereo" image="https://static.mytuner.mobi/media/tvos_radios/lj5ddph4befn.jpg" link="http://stream.playerlive.info:8285/sb.aac"/>
-<station name="Super 100" image="https://static.mytuner.mobi/media/tvos_radios/p3vptvavjpfe.png" link="https://27393.live.streamtheworld.com/SUPER100AAC_SC?dist=triton-web&pname=StandardPlayerV4"/>
+<station name="Super 100" image="https://static.mytuner.mobi/media/tvos_radios/p3vptvavjpfe.png" link="https://27393.live.streamtheworld.com/SUPER100AAC_SC?dist=triton-webpname=StandardPlayerV4"/>
 <station name="VOX FM" image="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png" link="https://ice42.securenetsystems.net/VOXFM?playSessionID=60B9F522-F7EA-7002-C705CCA75DB823C3"/>
-<station name="Radio San Pedro" image="https://static.mytuner.mobi/media/tvos_radios/hqyz7znpygdx.png" link="https://27393.live.streamtheworld.com/SANPEDROAAC_SC?dist=triton-web&pname=StandardPlayerV4"/>
-<station name="Estereo Sula 100.1 FM" image="https://static.mytuner.mobi/media/tvos_radios/Zy5wkDt68R.jpg" link="http://96.31.83.86:8068/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzODI3MTAxMSwiaXNzIjoidGlzcnYifQ.Kn2lGVme6vIx79_TWIHCWoXB63nHzKvgLTEMhAJ2fDI"/>
+<station name="Radio San Pedro" image="https://static.mytuner.mobi/media/tvos_radios/hqyz7znpygdx.png" link="https://27393.live.streamtheworld.com/SANPEDROAAC_SC?dist=triton-webpname=StandardPlayerV4"/>
+<station name="Estereo Sula 100.1 FM" image="https://static.mytuner.mobi/media/tvos_radios/Zy5wkDt68R.jpg" link="http://96.31.83.86:8068/;?DIST=TuneInTGT=TuneInmaxServers=2partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzODI3MTAxMSwiaXNzIjoidGlzcnYifQ.Kn2lGVme6vIx79_TWIHCWoXB63nHzKvgLTEMhAJ2fDI"/>
 <station name="KISS FM" image="https://static.mytuner.mobi/media/tvos_radios/kscGtME4wB.jpg" link="http://stream-152.zeno.fm/ayrcma6sv4zuv?zs=3W3iuLSySgC0oH7vMlduZA"/>
 <station name="La Voz de Suyapa" image="https://static.mytuner.mobi/media/tvos_radios/kE38b2vhMQ.jpg" link="https://media.cdebs.com/8010/stream"/>
 <station name="Alfa y Omega" image="https://static.mytuner.mobi/media/tvos_radios/jmhfzhashsuy.png" link="https://sonicpanel.streamsolutions.us/8046/stream"/>
 <station name="Kairos 90.9 FM" image="https://static.mytuner.mobi/media/tvos_radios/jhjh8gqysy5w.jpg" link="https://c7.radioboss.fm:18255/KAIROSFM"/>
 <station name="Estereo Clase" image="https://static.mytuner.mobi/media/tvos_radios/ac4Es7tZcg.png" link="https://stream-162.zeno.fm/63gs6bys8hhvv?zs=Zt6vtZsMTVe_S9l1UrYvLQ"/>
 <station name="Fiestahn Radio" image="https://static.mytuner.mobi/media/tvos_radios/ejbtrftxkqcn.jpg" link="https://stream-152.zeno.fm/exrn6rte41zuv?zs=27A4X9xFRZeo9QpJTmXx5Q"/>
-<station name="Radio Moderna" image="https://static.mytuner.mobi/media/tvos_radios/Apru6spp84.png" link="https://26573.live.streamtheworld.com/MODERNAAAC_SC?dist=triton-web&pname=StandardPlayerV4"/>
+<station name="Radio Moderna" image="https://static.mytuner.mobi/media/tvos_radios/Apru6spp84.png" link="https://26573.live.streamtheworld.com/MODERNAAAC_SC?dist=triton-webpname=StandardPlayerV4"/>
 <station name="Radio Mega 92.7 FM" image="https://static.mytuner.mobi/media/tvos_radios/uSVWz9RzhM.png" link="http://amixtv.com:8094/stream"/>
 <station name="Suyapa FM Estéreo" image="https://static.mytuner.mobi/media/tvos_radios/Y9qqE3RY38.jpg" link="https://media.cdebs.com/8012/stream"/>
 <station name="Radio Naranja" image="https://static.mytuner.mobi/media/tvos_radios/n2jnzezzlyd6.jpg" link="https://stream-159.zeno.fm/gxy9qpvudceuv?zs=1DxFu5nnRBe3L7h9Z6tU3A"/>
@@ -60,7 +60,7 @@
 <station name="RADIO X HN" image="https://static.mytuner.mobi/media/tvos_radios/XSQhZ8CXEh.jpg" link="http://stream-153.zeno.fm/e0yxr95bdd0uv?zs=cLROZax1TyapG_yfFUhyaQ"/>
 <station name="Radio Cristiana Honduras" image="https://static.mytuner.mobi/media/tvos_radios/wvyev3A29G.jpg" link="https://stream.zeno.fm/cbcfptwxcfhvv"/>
 <station name="Radio Naranja Sonaguera" image="https://static.mytuner.mobi/media/tvos_radios/pfnx5hbz6dcm.jpg" link="https://stream504.live:7018/;"/>
-<station name="Radio Cristo Te Llama Olancho" image="https://static.mytuner.mobi/media/tvos_radios/e5ga3zpxnxvu.png" link="https://stream504.live:7047/;?DIST=TuneIn&TGT=TuneIn&gdpr=1&gdpr_consent=CO5dhozO5dhozAcABBENB3CsAP_AAAAAACiQIJgAAAIEAABAAGBhAIsAAAAAAAAAACAQAAAAAAAAABgAAAAAAAAAAAAAACAAAAgAIAAAAAAAAAAABAAAAAAAAADAAAAAAAEAAABAAAAAAAAAAAAAAIAAA&maxServers=2&us_privacy=1YNY"/>
+<station name="Radio Cristo Te Llama Olancho" image="https://static.mytuner.mobi/media/tvos_radios/e5ga3zpxnxvu.png" link="https://stream504.live:7047/;?DIST=TuneInTGT=TuneIngdpr=1gdpr_consent=CO5dhozO5dhozAcABBENB3CsAP_AAAAAACiQIJgAAAIEAABAAGBhAIsAAAAAAAAAACAQAAAAAAAAABgAAAAAAAAAAAAAACAAAAgAIAAAAAAAAAAABAAAAAAAAADAAAAAAAEAAABAAAAAAAAAAAAAAIAAAmaxServers=2us_privacy=1YNY"/>
 <station name="Joya FM 95.3" image="https://static.mytuner.mobi/media/tvos_radios/CUQDXWuLQW.png" link="https://stream-162.zeno.fm/53lxdmvehwrvv?zs=kvDqetrESvekXeM34WQYLA"/>
 <station name="RADIO SOLO CLASICOS SOLO BUENA MUSICA" image="https://static.mytuner.mobi/media/tvos_radios/avnZPZHXE8.jpg" link="http://stream-151.zeno.fm/dxscbt1341puv?zs=_Nt2dm4yTOOE5Mph5qYsDw"/>
 <station name="Master FM Honduras" image="https://static.mytuner.mobi/media/tvos_radios/pgpPE6FADv.jpg" link="https://stream-158.zeno.fm/0c8utm1cckhvv?zs=bpQBjgLeTxqP0Y9rGK2LAw"/>
@@ -92,7 +92,7 @@
 <station name="Bolsa De Empleos Honduras" image="https://static.mytuner.mobi/media/tvos_radios/umgvxS3Gks.png" link="https://live.bolsadeempleos.info/8032/stream"/>
 <station name="Radio Predicando El Evangelio" image="https://static.mytuner.mobi/media/tvos_radios/9RECcqRLMb.jpg" link="http://control.voztream.com:8180/;"/>
 <station name="Radio Cristiana Espiritu Santo" image="https://static.mytuner.mobi/media/tvos_radios/YfXxHcwjAa.jpg" link="https://sonic.radiostreaminglatino.com:10989/;"/>
-<station name="Inédital FM Honduras" image="https://static.mytuner.mobi/media/tvos_radios/85aGvJAwgx.jpg" link="http://inedital.stream.laut.fm/inedital?t302=2023-09-01_21-18-30&uuid=3a9fe087-dac3-48c7-af8c-7474a17d36e9"/>
+<station name="Inédital FM Honduras" image="https://static.mytuner.mobi/media/tvos_radios/85aGvJAwgx.jpg" link="http://inedital.stream.laut.fm/inedital?t302=2023-09-01_21-18-30uuid=3a9fe087-dac3-48c7-af8c-7474a17d36e9"/>
 <station name="Épica Radio" image="https://static.mytuner.mobi/media/tvos_radios/cSGEXftkV2.png" link="http://stream-152.zeno.fm/utbchcmbaxjtv?zs=gfZ3sbVySWecN67wjQVK3Q"/>
 <station name="Radio cristiana" image="https://static.mytuner.mobi/media/tvos_radios/hshpnze5f4hb.png" link="https://stream-150.zeno.fm/scembcfs1f8uv?zs=EgA7XK3WRnurU7BD0BcqfQ"/>
 <station name="Logos FM" image="https://static.mytuner.mobi/media/tvos_radios/xgrgp9t5fsmj.png" link="http://stream.playerlive.info:8023/;"/>
