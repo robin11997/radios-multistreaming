@@ -4,13 +4,13 @@
 <station name="Disco 106" image="https://emisorasdominicanas.online/template/images/radios/disco.png" link="https://radio4.domint.net:8050/stream"/>
 <station name="KQ 94.5" image="https://emisorasdominicanas.online/template/images/radios/kq.jpg" link="https://radio.yaservers.com:9990/stream/1/"/>
 <station name="Radio Amanecer Internacional" image="https://emisorasdominicanas.online/template/images/radios/amanecer.jpg" link="https://stream-154.zeno.fm/2h5huhvvfq5tv?zs=8w5FX3lqQBWe1ywUFumjYw"/>
-<station name="Mortal 104.9" image="https://emisorasdominicanas.online/template/images/radios/mortal-santo-domingo.png" link="https://n0b.radiojar.com/x84tcy2wm2zuv?rj-ttl=5&rj-tok=AAABimGMyFgAWbUzl8kxM-4ooA"/>
+<station name="Mortal 104.9" image="https://emisorasdominicanas.online/template/images/radios/mortal-santo-domingo.png" link="https://n0b.radiojar.com/x84tcy2wm2zuv?rj-ttl=5rj-tok=AAABimGMyFgAWbUzl8kxM-4ooA"/>
 <station name="La Universidad de la Calle" image="https://emisorasdominicanas.online/template/images/radios/universidad-de-la-calle.jpg" link="https://radio4.domint.net:8030//stream"/>
 <station name="Kiss 94.9 Radio" image="https://emisorasdominicanas.online/template/images/radios/kiss.jpg" link="https://rstream.hostdime.com/proxy/kiss949?mp=/8880?ver=825424"/>
 <station name="La Kalle Estación Online" image="https://emisorasdominicanas.online/template/images/radios/kalle.jpg" link="https://radio.telemicro.com.do/lakallesantiago"/>
 <station name="MiXX 104.5 Online" image="https://emisorasdominicanas.online/template/images/radios/mixx-104-5.png" link="https://radio4.domint.net:8112/stream"/>
 <station name="Estrella 90 FM" image="https://emisorasdominicanas.online/template/images/radios/estrella.jpg" link="https://stream-147.zeno.fm/t8r7m90te0quv?zs=xGnRMy8qQh2DwzLt61u0qQ"/>
-<station name="Primera FM 88.1" image="https://emisorasdominicanas.online/template/images/radios/primera.jpg" link="https://n11.radiojar.com/5705c71sn2zuv?rj-ttl=5&rj-tok=AAABimGZmZkAlo-hW6wYqqiHQg"/>
+<station name="Primera FM 88.1" image="https://emisorasdominicanas.online/template/images/radios/primera.jpg" link="https://n11.radiojar.com/5705c71sn2zuv?rj-ttl=5rj-tok=AAABimGZmZkAlo-hW6wYqqiHQg"/>
 <station name="Sonido Suave 99.3" image="https://emisorasdominicanas.online/template/images/radios/sonido-santo-domingo.jpg" link="https://radio4.domint.net:8090/stream"/>
 <station name="CDN Radio En Santo Domingo" image="https://emisorasdominicanas.online/template/images/radios/cdn.jpg" link="https://play.cdnradio.com.do/cdnlive"/>
 <station name="Super K Radio On Line" image="https://emisorasdominicanas.online/template/images/radios/super.jpg" link="https://stream-143.zeno.fm/dbnpgku8na0uv?zs=G6Jv5WysRvSFysvOnPvtzw"/>
@@ -41,7 +41,7 @@
 <station name="Ritmo 96 FM" image="https://emisorasdominicanas.online/template/images/radios/ritmo-santo-domingo.png" link="https://stream-147.zeno.fm/y0br5ck4ququv?zs=8UPl_txsR6q91ezSZAPkqw"/>
 <station name="Dominicana 98.9 FM" image="https://emisorasdominicanas.online/template/images/radios/dominicana-santo-domingo.png" link="https://protvradiostream.com:8610/stream/1/"/>
 <station name="Z101" image="https://emisorasdominicanas.online/template/images/radios/la-z.jpg" link="https://21933.live.streamtheworld.com/Z101FM_SC"/>
-<station name="Mortal 104.9" image="https://emisorasdominicanas.online/template/images/radios/mortal-santo-domingo.png" link="https://n0b.radiojar.com/x84tcy2wm2zuv?rj-ttl=5&rj-tok=AAABimKeVmgAaa2zZObRdmQbjg"/>
+<station name="Mortal 104.9" image="https://emisorasdominicanas.online/template/images/radios/mortal-santo-domingo.png" link="https://n0b.radiojar.com/x84tcy2wm2zuv?rj-ttl=5rj-tok=AAABimKeVmgAaa2zZObRdmQbjg"/>
 <station name="Fiesta FM 105.7" image="https://emisorasdominicanas.online/template/images/radios/fiesta-santo-domingo.png" link="https://radio4.domint.net:8030//stream"/>
 <station name="Radio Raíces 102.9" image="https://emisorasdominicanas.online/template/images/radios/raices-santo-domingo.png" link="https://radio5.domint.net:8120/stream"/>
 <station name="Latina 88.7 FM" image="https://emisorasdominicanas.online/template/images/radios/latina-santo-domingo.png" link="https://radio.dominiserver.com/proxy/latina104?mp=/stream"/>
