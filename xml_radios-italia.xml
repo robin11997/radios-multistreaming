@@ -17,32 +17,32 @@
 <station name="Radio Zeta" image="https://static.mytuner.mobi/media/tvos_radios/rp6ru8hVmA.jpg" link="https://streamingv2.shoutcast.com/radio-zeta"/>
 <station name="Radio Sei 98.1 FM" image="https://static.mytuner.mobi/media/tvos_radios/S6YgWdxbe6.png" link="https://icecast.ithost.it/radiosei.ogg"/>
 <station name="Radio Ibiza" image="https://static.mytuner.mobi/media/tvos_radios/fQEEEFuWMR.png" link="https://kisskiss.fluidstream.eu/ibiza.aac?FLID=6"/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
+<station name="Rete Sport" image="https://static.mytuner.mobi/media/tvos_radios/HBrdVqtpgP.png" link="https://icecast.ithost.it/retesport.ogg"/>
+<station name="Radio Radio 104.5 FM" image="https://static.mytuner.mobi/media/tvos_radios/YzRMjGCKsW.png" link="https://sr6.inmystream.it:18102/stream"/>
+<station name="CLASSIC HITS anni 70 80 90" image="https://static.mytuner.mobi/media/tvos_radios/xrln9t3nrv2q.png" link="https://classichitsradio.streamingmedia.it/play"/>
+<station name="Rai Isoradio" image="https://static.mytuner.mobi/media/tvos_radios/e3DfpnHqhC.png" link="https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S88230050/W3T2uXpEeCuN/icecast"/>
+<station name="Radio Bruno" image="https://static.mytuner.mobi/media/tvos_radios/KYkQXfMpk7.png" link="https://stream6.xdevel.com/audio4s975355-395/stream/icecast.audio"/>
+<station name="One Dance" image="https://static.mytuner.mobi/media/tvos_radios/b5rmepuwneyd.png" link="https://ice04.fluidstream.net/rn1_2.aac?FLID=6"/>
+<station name="Radio LatteMiele" image="https://static.mytuner.mobi/media/tvos_radios/Mz6B5mYMMT.png" link="https://sr15.inmystream.it/stream/lattemiele"/>
+<station name="Radio 70 80 90" image="https://static.mytuner.mobi/media/tvos_radios/gh6ykkarqmze.png" link="https://rblive.it:8020/radio.mp3"/>
+<station name="Radio Radicale" image="https://static.mytuner.mobi/media/tvos_radios/bJdbnMmkxP.png" link="https://livemp3.radioradicale.it/live.mp3"/>
+<station name="Radio 80" image="https://static.mytuner.mobi/media/tvos_radios/QSKfhjdZtZ.png" link="https://sphera.fluidstream.eu/radio80.aac"/>
+<station name="Radio 60 70 80" image="https://static.mytuner.mobi/media/tvos_radios/3qmqPqh8K7.png" link="https://ice.studiopiu.net/607080.aac"/>
+<station name="Radio Piterpan" image="https://static.mytuner.mobi/media/tvos_radios/tSVufVXQG4.png" link="https://ice01.fluidstream.net/piterpan?FLID=6"/>
+<station name="Virgin Radio Classic Rock" image="https://static.mytuner.mobi/media/tvos_radios/exqj7qrbk6ju.png" link="https://icy.unitedradio.it/VirginRockClassics.mp3"/>
+<station name="Radio Kiss Kiss Italia" image="https://static.mytuner.mobi/media/tvos_radios/76QzcCMb3h.png" link="https://kisskiss.fluidstream.eu/KKItalia.mp3?FLID=6"/>
+<station name="Radio Birikina" image="https://static.mytuner.mobi/media/tvos_radios/7T3LMcphfe.png" link="https://ice02.fluidstream.net/birikina.mp3?FLID=6"/>
+<station name="105 Dance 90" image="https://static.mytuner.mobi/media/tvos_radios/CaPJzfPUsB.png" link="https://icy.unitedradio.it/105Dance90.mp3"/>
+<station name="Rai Radio Classica" image="https://static.mytuner.mobi/media/tvos_radios/xJKUYTZraF.png" link="https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast"/>
+<station name="ITALIAN RADIO" image="https://static.mytuner.mobi/media/tvos_radios/brhcxnbp4nnv.png" link="https://italianradio.streamingmedia.it/play"/>
+<station name="Radio Globo" image="https://static.mytuner.mobi/media/tvos_radios/ddC3cD6G2g.jpg" link="https://globo.newradio.it/globorm128"/>
+<station name="Virgin Radio Rock 70" image="https://static.mytuner.mobi/media/tvos_radios/6mw2kxgbqsfx.png" link="https://icy.unitedradio.it/VirginRock70.mp3"/>
+<station name="Dj Osso Radio" image="https://static.mytuner.mobi/media/tvos_radios/DRt28wP2Te.png" link="https://stream.djossoradio.net/djosso.mp3?FLID=6"/>
+<station name="Radio Norba" image="https://static.mytuner.mobi/media/tvos_radios/DtYNBhAwdD.png" link="https://stream6.xdevel.com/audio0s975885-1010/stream/icecast.audio"/>
+<station name="Virgin Radio Rock 80" image="https://static.mytuner.mobi/media/tvos_radios/g4hjylsxar5n.png" link="https://icy.unitedradio.it/VirginRock80.mp3"/>
+<station name="Radio Cuore" image="https://static.mytuner.mobi/media/tvos_radios/kkgCPre7CB.png" link="https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio"/>
+<station name="Radio Bruno Fiorentina" image="https://static.mytuner.mobi/media/tvos_radios/czeu3rbxmex5.jpg" link="https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio"/>
+<station name="Radio Popolare Milano" image="https://static.mytuner.mobi/media/tvos_radios/jHDQFrrXp9.jpg" link="https://livex.radiopopolare.it/radiopop.aac?FLID=6"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
