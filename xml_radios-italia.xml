@@ -43,31 +43,31 @@
 <station name="Radio Cuore" image="https://static.mytuner.mobi/media/tvos_radios/kkgCPre7CB.png" link="https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio"/>
 <station name="Radio Bruno Fiorentina" image="https://static.mytuner.mobi/media/tvos_radios/czeu3rbxmex5.jpg" link="https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio"/>
 <station name="Radio Popolare Milano" image="https://static.mytuner.mobi/media/tvos_radios/jHDQFrrXp9.jpg" link="https://livex.radiopopolare.it/radiopop.aac?FLID=6"/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
+<station name="FUNKY RADIO" image="https://static.mytuner.mobi/media/tvos_radios/e7hmd26dwqzg.png" link="https://funkyradio.streamingmedia.it/play.mp3"/>
+<station name="Radio Anni 80" image="https://static.mytuner.mobi/media/tvos_radios/xhabp3qqevdd.png" link="https://nr11.newradio.it:19208/stream"/>
+<station name="Radio Music Star Vasco" image="https://static.mytuner.mobi/media/tvos_radios/dnvxqpb6zevc.png" link="https://icy.unitedradio.it/Vasco.mp3"/>
+<station name="MC2" image="https://static.mytuner.mobi/media/tvos_radios/rZeWTLJaFV.jpg" link="https://edge.singsingmusic.net/MC2.mp3"/>
+<station name="R101 80" image="https://static.mytuner.mobi/media/tvos_radios/ansrxpkqtv2t.png" link="https://icy.unitedradio.it/R10180.aac"/>
+<station name="105 Zoo Radio" image="https://static.mytuner.mobi/media/tvos_radios/ZMwgdSnbQZ.png" link="https://icy.unitedradio.it/105Zoo.mp3"/>
+<station name="Globo Vintage" image="https://static.mytuner.mobi/media/tvos_radios/9H73v9UtG3.png" link="https://m100.newradio.it/m100-128"/>
+<station name="Virgin Radio Rock 9" image="https://static.mytuner.mobi/media/tvos_radios/8g6acaqlc4z6.png" link="https://icy.unitedradio.it/Virgin_03.mp3"/>
+<station name="Radio Bianconera" image="https://static.mytuner.mobi/media/tvos_radios/sqd5r87bjgeq.jpg" link="https://stream.tmwradio.com/bianconera.aac"/>
+<station name="Gamma Radio" image="https://static.mytuner.mobi/media/tvos_radios/5c7wERMsDz.png" link="https://rn2.fluidstream.eu/gammaradio.aac?FLID=6"/>
+<station name="Radio Company" image="https://static.mytuner.mobi/media/tvos_radios/DUpAj8QVmN.png" link="https://sphera.fluidstream.eu/company.aac?FLID=6"/>
+<station name="Ritmo 80" image="https://static.mytuner.mobi/media/tvos_radios/eBj4K7ghgx.png" link="https://rh.fluidstream.eu/ritmo80.mp3?FLID=6"/>
+<station name="Forever 80" image="https://static.mytuner.mobi/media/tvos_radios/hptkgezf6hcn.jpg" link="https://forever80.stream.laut.fm/forever80?t302=2023-09-30_01-31-51uuid=4b4ecbf3-6087-47a4-98ff-c419b02b334b"/>
+<station name="Radio Subasio Piu" image="https://static.mytuner.mobi/media/tvos_radios/jp3vRLhUP2.jpg" link="https://icy.unitedradio.it/SubasioPiu.mp3"/>
+<station name="NEW HITS RADIO Italia" image="https://static.mytuner.mobi/media/tvos_radios/mc7abekcjxpy.png" link="https://newhitsradio.streamingmedia.it/play"/>
+<station name="70 80" image="https://static.mytuner.mobi/media/tvos_radios/cMfR5UMcJA.png" link="https://nr8.newradio.it:19574/stream"/>
+<station name="Radio Mater" image="https://static.mytuner.mobi/media/tvos_radios/CcDReWHpBW.png" link="https://radiocast.cloud/radio/8000/radio.mp3"/>
+<station name="Radio Margherita" image="https://static.mytuner.mobi/media/tvos_radios/rpXHvTeUwt.jpg" link="https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio"/>
+<station name="Radio Nostalgia" image="https://static.mytuner.mobi/media/tvos_radios/efllhhcmrmvl.png" link="https://sc.streamingfm.it:8072/nostalgia.mp3"/>
+<station name="Solo Canzoni Napoletane" image="https://static.mytuner.mobi/media/tvos_radios/fduUK79q7W.png" link="https://my.streamingmedia.it/radio/8170/canzoninapoletane.mp3"/>
+<station name="Radiolina" image="https://static.mytuner.mobi/media/tvos_radios/9JJzZNLDdk.png" link="https://streaming.shoutcast.com/radiolina"/>
+<station name="Rai Radio Tutta Italiana" image="https://static.mytuner.mobi/media/tvos_radios/DFXH6nNZDW.png" link="https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast"/>
+<station name="Love FM" image="https://static.mytuner.mobi/media/tvos_radios/hupBUbDFPb.png" link="https://rh.fluidstream.eu/lovefm.mp3?FLID=6"/>
+<station name="Radio Number One" image="https://static.mytuner.mobi/media/tvos_radios/SLRqHp55ky.png" link="https://str04.fluidstream.net/rn1.mp3"/>
+<station name="Radio Italia Anni 60" image="https://static.mytuner.mobi/media/tvos_radios/gwhjmuyqj26n.png" link="https://ice12.fluidstream.net/ria60_rm.aac?FLID=1&aw_0_req.gdpr=true"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
