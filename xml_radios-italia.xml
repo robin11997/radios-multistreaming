@@ -67,7 +67,7 @@
 <station name="Rai Radio Tutta Italiana" image="https://static.mytuner.mobi/media/tvos_radios/DFXH6nNZDW.png" link="https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast"/>
 <station name="Love FM" image="https://static.mytuner.mobi/media/tvos_radios/hupBUbDFPb.png" link="https://rh.fluidstream.eu/lovefm.mp3?FLID=6"/>
 <station name="Radio Number One" image="https://static.mytuner.mobi/media/tvos_radios/SLRqHp55ky.png" link="https://str04.fluidstream.net/rn1.mp3"/>
-<station name="Radio Italia Anni 60" image="https://static.mytuner.mobi/media/tvos_radios/gwhjmuyqj26n.png" link="https://ice12.fluidstream.net/ria60_rm.aac?FLID=1&aw_0_req.gdpr=true"/>
+<station name="Radio Italia Anni 60" image="https://static.mytuner.mobi/media/tvos_radios/gwhjmuyqj26n.png" link="https://ice12.fluidstream.net/ria60_rm.aac?FLID=1aw_0_req.gdpr=true"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
