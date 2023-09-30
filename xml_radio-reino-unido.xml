@@ -3,7 +3,7 @@
 <station name="LBC" image="https://static.mytuner.mobi/media/tvos_radios/PqwsLMvvqE.png" link="https://media-ssl.musicradio.com/LBCLondon"/>
 <station name="Smooth Radio London 102.2" image="https://static.mytuner.mobi/media/tvos_radios/NDRAAz9qpC.jpeg" link="https://media-ssl.musicradio.com/SmoothLondonMP3"/>
 <station name="Capital FM London" image="https://static.mytuner.mobi/media/tvos_radios/Drt6RrkVvw.png" link="https://media-ssl.musicradio.com/Capital"/>
-<station name="Greatest Hits Radio" image="https://static.mytuner.mobi/media/tvos_radios/ga4cas6gxcgg.jpg" link="https://stream-mz.planetradio.co.uk/net2national.aac?aw_0_1st.bauer_listenerid=70b922537b940c15b2859f9d79d2fe1baw_0_1st.bauer_loggedin=falseaw_0_1st.playerid=BMUK_html5aw_0_1st.skey=1680772944&direct=truelistenerid=70b922537b940c15b2859f9d79d2fe1b"/>
+<station name="Greatest Hits Radio" image="https://static.mytuner.mobi/media/tvos_radios/ga4cas6gxcgg.jpg" link="https://stream-mz.planetradio.co.uk/net2national.aac?aw_0_1st.bauer_listenerid=70b922537b940c15b2859f9d79d2fe1baw_0_1st.bauer_loggedin=falseaw_0_1st.playerid=BMUK_html5aw_0_1st.skey=1680772944direct=truelistenerid=70b922537b940c15b2859f9d79d2fe1b"/>
 <station name="Gold Radio UK" image="https://static.mytuner.mobi/media/tvos_radios/9bhq5MmTFQ.jpg" link="https://media-ssl.musicradio.com/Gold"/>
 <station name="Heart FM London 106.2" image="https://static.mytuner.mobi/media/tvos_radios/rFGM25552n.png" link="https://media-ssl.musicradio.com/HeartLondon"/>
 <station name="Heart 80s" image="https://static.mytuner.mobi/media/tvos_radios/dybmwxusgdpn.png" link="https://media-ice.musicradio.com/Heart80sMP3"/>
@@ -50,7 +50,7 @@
 <station name="24-7 Northern Soul" image="https://static.mytuner.mobi/media/tvos_radios/tfvfxkn2fh6b.png" link="https://ssl.shoutcaststreaming.us:8048/;"/>
 <station name="BritCom 3" image="https://static.mytuner.mobi/media/tvos_radios/PN2BNcmQga.jpg" link="https://cast2.asurahosting.com/proxy/britcom3/stream"/>
 <station name="Sky News Radio" image="https://static.mytuner.mobi/media/tvos_radios/8pnhrvf5le2v.png" link="https://video.news.sky.com/snr/news/snrnews.mp3"/>
-<station name="Pop Hits" image="https://static.mytuner.mobi/media/tvos_radios/aJ9EpK6Pc7.png" link="https://n09.rcs.revma.com/avg9pfvpxwuvv?rj-ttl=5&rj-tok=AAABiugOIJgAo0MVTQ1mBLVx0w"/>
+<station name="Pop Hits" image="https://static.mytuner.mobi/media/tvos_radios/aJ9EpK6Pc7.png" link="https://n09.rcs.revma.com/avg9pfvpxwuvv?rj-ttl=5rj-tok=AAABiugOIJgAo0MVTQ1mBLVx0w"/>
 <station name="One World Radio" image="https://static.mytuner.mobi/media/tvos_radios/3Qyzh7dY3d.png" link="https://likeradiostream.com/owrukaac"/>
 <station name="Virgin Radio Chilled UK" image="https://static.mytuner.mobi/media/tvos_radios/xykenktesuhd.png" link="https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-webaw_0_1st.playerId=vr-web%3Baw_0_req.gdpr=trueawparams=companionAds%3Atruelistenerid=159a807cf1f5919a1f5ec5de2d810c54"/>
 <station name="Radio X Manchester" image="https://static.mytuner.mobi/media/tvos_radios/rAy4wNw8rb.png" link="https://media-the.musicradio.com/RadioXManchester"/>
