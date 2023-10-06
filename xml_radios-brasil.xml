@@ -1,52 +1,52 @@
 <channel>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
+<station name="Antena 1" image="https://static.mytuner.mobi/media/tvos_radios/dH7Ea6pCs6.jpg" link="https://antenaone.crossradio.com.br/stream/1;"/>
+<station name="Jovem Pan FM São Paulo" image="https://static.mytuner.mobi/media/tvos_radios/8PgTxpt6Cy.jpg" link="https://27413.live.streamtheworld.com/JP_SP_FMAAC_SC"/>
+<station name="FM O Dia" image="https://static.mytuner.mobi/media/tvos_radios/mzxnraDf4S.png" link="https://streaming.livespanel.com:20000/live"/>
+<station name="Alpha FM 101.7" image="https://static.mytuner.mobi/media/tvos_radios/dNEYHQ3z6L.jpg" link="https://27323.live.streamtheworld.com/RADIO_ALPHAFM_ADP_SC?dist=site-alphafm"/>
+<station name="Hunter.FM - Sertanejo" image="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" link="https://live.hunter.fm/sertanejo_normal"/>
+<station name="Mix FM São Paulo" image="https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png" link="https://26483.live.streamtheworld.com/MIXFM_SAOPAULOAAC_SC?dist=mix-web-player-radio-ao-vivo"/>
+<station name="CBN São Paulo" image="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" link="https://24483.live.streamtheworld.com/CBN_SPAAC_SC?dist=radioaovivocom"/>
+<station name="Super Rádio Tupi" image="https://static.mytuner.mobi/media/tvos_radios/ynShSZnvJj.jpg" link="https://8923.brasilstream.com.br/stream"/>
+<station name="Rádio Metropolitana 98.5 FM" image="https://static.mytuner.mobi/media/tvos_radios/tV4ZgVhJmx.png" link="https://f43.fabricahost.com.br/metropolitana985sp?f=1696628693N01HC3F6PRM6AGEXYQZ3XRSD70Ztid=01HC3F6BHDHYVVE9VFF5F1S49W"/>
+<station name="89 FM - A Rádio Rock" image="https://static.mytuner.mobi/media/tvos_radios/ggK76UMZ39.png" link="https://26493.live.streamtheworld.com/RADIO_89FM_ADP_SC?dist=site-89fm"/>
+<station name="Rádio Anos 80's" image="https://static.mytuner.mobi/media/tvos_radios/899sjy4xcmbm.png" link="https://live1.livemus.com.br:27400/live"/>
+<station name="BandNews FM" image="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" link="https://27343.live.streamtheworld.com/BANDNEWSFM_SPAAC_SC"/>
+<station name="Rádio Grenal" image="https://static.mytuner.mobi/media/tvos_radios/f3jnrnaUMD.jpg" link="https://grenal.audiostream.com.br:20000/mp3"/>
+<station name="JB FM 99.9" image="https://static.mytuner.mobi/media/tvos_radios/TBsVcXCdj4.jpg" link="https://26483.live.streamtheworld.com/JBFMAAC_SC?dist=player-site-desktoppname=TDSdk"/>
+<station name="Saudade FM" image="https://static.mytuner.mobi/media/tvos_radios/WuKakGmdbq.png" link="https://27343.live.streamtheworld.com/SAUDADE_FMAAC_SC?dist=mytuner"/>
+<station name="Sertanejo FM" image="" link="https://stream-145.zeno.fm/6045t1y3tm0uv?zs=HwYNitnoSBaDOZhVs9jk7Qaw_0_req_lsid=1666360191170_0.20020792411649557"/>
+<station name="Jovem Pan AM" image="https://static.mytuner.mobi/media/tvos_radios/PUenG9e2m6.jpg" link="https://27353.live.streamtheworld.com/JP_SP_AMAAC_SC"/>
+<station name="Rádio Itatiaia FM" image="https://static.mytuner.mobi/media/tvos_radios/pKN7gvWHjP.png" link="https://8903.brasilstream.com.br/stream"/>
+<station name="Energia 97 FM" image="https://static.mytuner.mobi/media/tvos_radios/gzEL7UXjWA.png" link="https://streaming.inweb.com.br/energia"/>
+<station name="Transamérica SP" image="https://static.mytuner.mobi/media/tvos_radios/zdyejpeywf3m.jpg" link="https://27033.live.streamtheworld.com/RT_SPAAC_SC?pname=tdwidgets"/>
+<station name="Rádio Bandeirantes" image="https://static.mytuner.mobi/media/tvos_radios/zexns46qab.jpg" link="https://22823.live.streamtheworld.com/RADIOBANDEIRANTESAAC_SC"/>
+<station name="Rádio Gospel Adoração " image="https://static.mytuner.mobi/media/tvos_radios/LEUKJREgR4.png" link="https://stm12.voxhd.com.br:9752/;"/>
+<station name="Nova Brasil 89.7 SP" image="https://static.mytuner.mobi/media/tvos_radios/7f7e5fqddmwr.png" link="https://24273.live.streamtheworld.com/NOVABRASIL_SPAAC_SC"/>
+<station name="Metropolitana Sertanejo" image="https://static.mytuner.mobi/media/tvos_radios/j4euy29sjzgs.png" link="https://f42.fabricahost.com.br/metrospsertanejo?f=1696629432N01HC3FX86JH3XSFQP8BRGHFPAMtid=01HC3F6BHDHYVVE9VFF5F1S49W"/>
+<station name="Pagode 90" image="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png" link="https://stream-144.zeno.fm/hfqaq0bhfg8uv?zs=lqN285PIR0-GwNJMYgm6Tw"/>
+<station name="Radio Motel" image="https://static.mytuner.mobi/media/tvos_radios/fERCMMxtzA.jpg" link="https://usa11.fastcast4u.com/proxy/radiomotel?mp=%2Fstream3"/>
+<station name="Rádio Globo RJ" image="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" link="https://26663.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom"/>
+<station name="Mix FM Rio" image="https://static.mytuner.mobi/media/tvos_radios/cFgTZPpJAA.jpeg" link="https://27423.live.streamtheworld.com/MIXRIOAAC_SC?dist=MIX-PLAYER"/>
+<station name="Nativa FM - São Paulo" image="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" link="https://24483.live.streamtheworld.com/NATIVA_SP_SC"/>
+<station name="BH FM" image="https://static.mytuner.mobi/media/tvos_radios/mkbYJqxK8W.jpg" link="https://26513.live.streamtheworld.com/BHFMAAC_SC?dist=radioaovivocom"/>
+<station name="Rádio Melodia FM" image="https://static.mytuner.mobi/media/tvos_radios/G7UNUU6tHT.png" link="https://24283.live.streamtheworld.com/MELODIAFMAAC_SC?dist=triton-widgetpname=tdwidgets"/>
+<station name="Rádio Disney" image="https://static.mytuner.mobi/media/tvos_radios/sUshFLCTf6.png" link="https://26493.live.streamtheworld.com/DISNEY_BRA_SP_SC?dist=web-radiodisney-disneylatino"/>
+<station name="Hunter.FM" image="https://static.mytuner.mobi/media/tvos_radios/cWg7EyKZN3.jpg" link="https://live.hunter.fm/pagode_normal"/>
+<station name="Alvorada FM 94.9" image="https://static.mytuner.mobi/media/tvos_radios/BNPg7Dz5e9.jpeg" link="https://27443.live.streamtheworld.com/RADIO_ALVORADAAAC_SC"/>
+<station name="Paredão Piseiro" image="https://static.mytuner.mobi/media/tvos_radios/neughjqwwbaw.png" link="https://stream-158.zeno.fm/wwrzuxbgrd0uv?zs=9v3V8ZYGTLCJ9E1qzO7qAQ"/>
+<station name="CBN Rio" image="https://static.mytuner.mobi/media/tvos_radios/DT5RBWw6J6.png" link="https://27603.live.streamtheworld.com/CBN_RJAAC_SC?dist=radioaovivocom"/>
+<station name="Love Night" image="https://static.mytuner.mobi/media/tvos_radios/VTgeqkxa24.png" link="https://stream-158.zeno.fm/4qg31c6tff9uv?zs=yZ8IjLOPSfe7ezUS-IdwUQ"/>
+<station name="https://static.mytuner.mobi/media/tvos_radios/MMhGgetrMa.png" image="https://static.mytuner.mobi/media/tvos_radios/MMhGgetrMa.png" link="https://f63.fabricahost.com.br/transcontinentalsp48?f=1696631222N01HC3HKWJQEC6TKSMVW24SFY81tid=01HC3F6BHDHYVVE9VFF5F1S49W"/>
+<station name="Gazeta FM" image="https://static.mytuner.mobi/media/tvos_radios/RYE2vJwpkp.jpg" link="https://shout25.crossradio.com.br:18002/1;/stream/1;/stream/1"/>
+<station name="Rádio Clube FM" image="https://static.mytuner.mobi/media/tvos_radios/T7Ny3bL8gk.png" link="https://8157.brasilstream.com.br/stream?origem=radio-ao-vivo"/>
+<station name="Flashback FM" image="https://static.mytuner.mobi/media/tvos_radios/fucraxxslgwf.jpg" link="https://cc6.streammaximum.com/proxy/radioflashbackfm/stream"/>
+<station name="Metropolitana Pop" image="https://static.mytuner.mobi/media/tvos_radios/fgwadzwcwgma.png" link="https://f34.fabricahost.com.br/metrosppop?f=1696631430N01HC3HT74HA596R4M92KMS73AStid=01HC3F6BHDHYVVE9VFF5F1S49W"/>
+<station name="GFM Salvador" image="https://static.mytuner.mobi/media/tvos_radios/V8ssEqpVTV.png" link="https://f13.fabricahost.com.br/radiogfm?f=1696631496N01HC3HW7D95R520NTVMEFAV5DMtid=01HC3F6BHDHYVVE9VFF5F1S49W"/>
+<station name="Romantismo Sertanejo" image="https://static.mytuner.mobi/media/tvos_radios/q2fupm2nhnck.jpg" link="https://stm4.voxhd.com.br:7228/stream"/>
+<station name="SulAmérica Paradiso" image="https://static.mytuner.mobi/media/tvos_radios/sqSufAnQDD.png" link="https://24233.live.streamtheworld.com/SULAMERICAAAC_SC"/>
+<station name="Rádio Cidade FM" image="https://static.mytuner.mobi/media/tvos_radios/XbaUmT9kwa.jpeg" link="https://27423.live.streamtheworld.com/RADIOCIDADEAAC_SC?dist=mytuner-radio"/>
+<station name="Moda Sertaneja" image="https://static.mytuner.mobi/media/tvos_radios/4kLJYqKfJt.png" link="https://live.hunter.fm/modasertaneja_normal"/>
+<station name="Jovem Pan FM Belo Horizonte" image="https://static.mytuner.mobi/media/tvos_radios/krFJ8hN9CS.jpg" link="https://8062.brasilstream.com.br/stream?origem=mytunerradio"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
