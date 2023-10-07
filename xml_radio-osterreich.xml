@@ -1,36 +1,36 @@
 <channel>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
-<station name="" image="" link=""/>
+<station name="Hitradio Ö3" image="https://static.mytuner.mobi/media/tvos_radios/4xPFVe7mnq.png" link="https://orf-live.ors-shoutcast.at/oe3-q2a"/>
+<station name="Kronehit" image="https://static.mytuner.mobi/media/tvos_radios/8jfdyyyphb5p.png" link="https://secureonair.krone.at/kronehit1058.mp3"/>
+<station name="Radio Wien" image="https://static.mytuner.mobi/media/tvos_radios/seRuZBshjC.png" link="https://orf-live.ors-shoutcast.at/wie-q2a?player=radiothek_v1referer=wien.orf.at&userid=17de8f80-f6d5-4305-becb-f12c76df863a"/>
+<station name="Ö1" image="https://static.mytuner.mobi/media/tvos_radios/jtBJRTSpBS.png" link="https://orf-live.ors-shoutcast.at/oe1-q1a"/>
+<station name="Radio Niederösterreich" image="https://static.mytuner.mobi/media/tvos_radios/de6PtVxwXL.png" link="https://orf-live.ors-shoutcast.at/noe-q1a"/>
+<station name="ORF Radio Oberösterreich" image="https://static.mytuner.mobi/media/tvos_radios/pUjREZPhVL.png" link="https://orf-live.ors-shoutcast.at/ooe-q1a"/>
+<station name="Radio 88.6" image="https://static.mytuner.mobi/media/tvos_radios/MfXAVpvev5.png" link="https://edge94.streamonkey.net/radio886-onair/stream/mp3?aggregator=my_tuner_radio_com"/>
+<station name="Radio Steiermark" image="https://static.mytuner.mobi/media/tvos_radios/4t2Xcjn5Tx.png" link="https://orf-live.ors-shoutcast.at/stm-q1a"/>
+<station name="Tirol" image="https://static.mytuner.mobi/media/tvos_radios/rD7R7YT2zX.png" link="https://orf-live.ors-shoutcast.at/tir-q1a"/>
+<station name="Radio FM4" image="https://static.mytuner.mobi/media/tvos_radios/cYaerTpbBG.png" link="https://orf-live.ors-shoutcast.at/fm4-q2a"/>
+<station name="Antenne Steiermark" image="https://static.mytuner.mobi/media/tvos_radios/aJDGqV87LV.png" link="https://live.antenne.at/as"/>
+<station name="ROCK ANTENNE Österreich" image="https://static.mytuner.mobi/media/tvos_radios/amhavuflmngk.png" link="https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=MyTuner"/>
+<station name="Life Radio Tirol" image="https://static.mytuner.mobi/media/tvos_radios/9d98qXrJTt.png" link="https://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=6521on79%230%23536sop07nrs5p3o96nsor31sosnpn161%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1696709241"/>
+<station name="Best of 80s" image="https://static.mytuner.mobi/media/tvos_radios/aexptasmnstj.png" link="https://80.securestream.radioaustria.at/80?aw_0_req.gdpr=true"/>
+<station name="Radio Arabella" image="https://static.mytuner.mobi/media/tvos_radios/HN8pCrfXse.png" link="https://edge70.streams.arabella.at/arabella-wien?aggregator=mytuner"/>
+<station name="Radio Austria" image="https://static.mytuner.mobi/media/tvos_radios/YppaU93TwJ.png" link="https://onair.securestream.radioaustria.at/radioaustria?aw_0_req.gdpr=true"/>
+<station name="Best of Schlager" image="https://static.mytuner.mobi/media/tvos_radios/ancrd6yugpzz.png" link="https://schlager.securestream.radioaustria.at/schlager?aw_0_req.gdpr=true"/>
+<station name="Radio Kärnten" image="https://static.mytuner.mobi/media/tvos_radios/xqkyJCsM23.png" link="https://orf-live.ors-shoutcast.at/ktn-q1a?player=radiothek_v1referer=kaernten.orf.at&userid=2f1bb9c1-c495-4a64-9fc6-d8c267fbb4f3"/>
+<station name="Radio U1 Tirol" image="https://static.mytuner.mobi/media/tvos_radios/BnNuVn5QHP.jpg" link="https://u1-tirol-stream21.radiohost.de/u1-tirol-live_mp3-192"/>
+<station name="Radio Burgenland" image="https://static.mytuner.mobi/media/tvos_radios/cmH3xuML5F.png" link="https://orf-live.ors-shoutcast.at/bgl-q1a"/>
+<station name="Best of 70s" image="https://static.mytuner.mobi/media/tvos_radios/zbw2amsflqz6.png" link="https://70.securestream.radioaustria.at/70?aw_0_req.gdpr=true"/>
+<station name="Radio Salzburg" image="" link="https://orf-live.ors-shoutcast.at/sbg-q2a?player=radiothek_v1referer=salzburg.orf.atuserid=1f8aa8a4-aaa7-46a9-abaf-e80e8d615577"/>
+<station name="Radio Grun-Weiss" image="https://static.mytuner.mobi/media/tvos_radios/Vy7ee9EHpq.png" link="https://live.gruen-weiss.at/rgw.aac"/>
+<station name="Vorarlberg" image="https://static.mytuner.mobi/media/tvos_radios/xuBY8qgStz.png" link="https://orf-live.ors-shoutcast.at/vbg-q1a"/>
+<station name="88.6 Hard Rock" image="https://static.mytuner.mobi/media/tvos_radios/eGAkPHRcd9.png" link="https://edge02.streamonkey.net/radio886-hardrock/stream/mp3?aggregator=my_tuner_radio_com"/>
+<station name="Best of Austria" image="https://static.mytuner.mobi/media/tvos_radios/cmyxu3ajtqbc.png" link="https://austro.securestream.radioaustria.at/austro?aw_0_req.gdpr=true"/>
+<station name="Austrian Rock Radio" image="https://static.mytuner.mobi/media/tvos_radios/4jxvfk5tu9jy.jpeg" link="https://live.antenne.at/arr"/>
+<station name="Life Radio Tirol" image="https://static.mytuner.mobi/media/tvos_radios/YMMqVFbPLx.jpg" link="https://liferadio-tirol.streamabc.net/43-lrtirolsimulcast-aac-128-1656188?sABC=6521or2q%230%23536sop07nrs5p3o96nsor31sosnpn161%23enqvb-bfgreervpu&aw_0_1st.playerid=radio-osterreich&amsparams=playerid:radio-osterreich;skey:1696710189"/>
+<station name="Best of 60s" image="https://static.mytuner.mobi/media/tvos_radios/xd8bwdyspbhq.png" link="https://60.securestream.radioaustria.at/60?aw_0_req.gdpr=true"/>
+<station name="Best of 90s" image="https://static.mytuner.mobi/media/tvos_radios/djghe4lncjul.png" link="https://90.securestream.radioaustria.at/90?aw_0_req.gdpr=true"/>
+<station name="Arabella Hits and Schlage" image="https://static.mytuner.mobi/media/tvos_radios/rxDpqdbE6p.jpg" link="https://edge62.streams.arabella.at/arabella-schlager?aggregator=mytuner"/>
+<station name="Antenne Kärnten" image="https://static.mytuner.mobi/media/tvos_radios/BNDFardgpK.png" link="https://live.antenne.at/ak"/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
 <station name="" image="" link=""/>
