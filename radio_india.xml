@@ -1,7 +1,31 @@
 <channel>
-<station name="Radio 1" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://149.56.195.94:8322/bolpunjabiradio"/>
-<station name="Radio 2" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://50.117.121.165/"/>
-<station name="Radio 3" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://62.138.2.128:8000/stream"/>
-<station name="Radio 4" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://relay.181.fm:8800/"/>
-<station name="Radio 5" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="https://ais-sa1.streamon.fm/7677_48k.aac/playlist.m3u8"/>
+<station name="Vividh Bharti (विविध भारती)" image="https://static.mytuner.mobi/media/tvos_radios/jgstA2jnFQ.png" link="https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"/>
+<station name="Radio Mirchi 98.3" image="https://static.mytuner.mobi/media/tvos_radios/cVVcTMJBcm.png" link="http://peridot.streamguys.com:7150/Mirchi"/>
+<station name="AIR Vividh Bharati" image="https://static.mytuner.mobi/media/tvos_radios/wNBk42xDwX.jpg" link="https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8"/>
+<station name="Radio Baingan" image="https://static.mytuner.mobi/media/tvos_radios/Tw7k5MrpZr.png" link="https://stream-141.zeno.fm/eyxg23ky4x8uv?zs=1yTm-UzSTHeqTEHIJUmEqA"/>
+<station name="FM Gold Dehli" image="https://static.mytuner.mobi/media/tvos_radios/M2xsuJ2eSP.jpg" link="https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps25329_2043817.aac"/>
+<station name="Non Stop Hindi" image="https://static.mytuner.mobi/media/tvos_radios/Ekv3xnWJpp.png" link="http://s5.voscast.com:8216/;stream.mp3"/>
+<station name="Hindi Desi Bollywood Evergreen Hits" image="https://static.mytuner.mobi/media/tvos_radios/6Qgm3NzFq5.png" link="http://cast2.asurahosting.com:8569/stream"/>
+<station name="GOLDY Evergreen" image="https://static.mytuner.mobi/media/tvos_radios/khbf2jlccjaf.png" link="https://stream-146.zeno.fm/n2fd0edh9k8uv?zs=Tdc4AmSnSwSFrRVWAk_JKA"/>
+<station name="Radio Namkin" image="https://static.mytuner.mobi/media/tvos_radios/djz5vcla3rv9.png" link="https://stream-157.zeno.fm/84h7fsbaqv5tv?zs=P9xUaAliQ6WrNldVWx-Vlw"/>
+<station name="Radio Retro Bollywood 90s" image="https://static.mytuner.mobi/media/tvos_radios/9fKKkfbJKE.png" link="https://stream-148.zeno.fm/u0hrd3xkzhhvv?zs=Y1yGxGdxS7S6q-kqs9NBCg"/>
+<station name="Mirchi Love Hindi" image="https://static.mytuner.mobi/media/tvos_radios/tbfl38zjehrd.jpg" link="https://drive.uber.radio/uber/bollywoodlove/icecast.audio"/>
+<station name="Hindi Retro" image="https://static.mytuner.mobi/media/tvos_radios/7ksqhvudgsc9.jpg" link="https://stream-146.zeno.fm/v2zfmxef798uv?zs=P9rmO98LT0K6HehtPRM8eg"/>
+<station name="Bollywood Gaane Purane" image="https://static.mytuner.mobi/media/tvos_radios/ppqbgfej6skx.jpeg" link="https://stream-144.zeno.fm/6n6ewddtad0uv?zs=JrKXncOLS32sIhuGemL3Ww"/>
+<station name="BollyHits Radio" image="https://static.mytuner.mobi/media/tvos_radios/gfwvyqspah2g.png" link="http://hoth.alonhosting.com:1080/;"/>
+<station name="Retro Bollywood" image="https://static.mytuner.mobi/media/tvos_radios/283vfjq6wvf5.png" link="https://stream-142.zeno.fm/g372rxef798uv?zs=alP_XM7rRpWrJig0W0NxLA"/>
+<station name="Club FM" image="https://static.mytuner.mobi/media/tvos_radios/mjhk2jjs4e2z.png" link="https://eu10.fastcast4u.com/clubfmuae"/>
+<station name="Bhakti Sangeet" image="https://static.mytuner.mobi/media/tvos_radios/wczz4pqgu5fa.jpeg" link="https://stream-141.zeno.fm/ut3kgm1vsa0uv?zs=VocNypQgRnym4lDKVPiN-A"/>
+<station name="Radio Aashiqanaa" image="https://static.mytuner.mobi/media/tvos_radios/LKLwFcuRTx.png" link="https://sonic.onlineaudience.co.uk/8114/stream"/>
+<station name="Mirchi 90's Radio" image="https://static.mytuner.mobi/media/tvos_radios/kjf54mmfy63u.jpg" link="http://sp14.instainternet.com/8112/stream"/>
+<station name="Radio Mirchi Tamil FM" image="https://static.mytuner.mobi/media/tvos_radios/spmfdmz7t9m8.jpg" link="https://stream-158.zeno.fm/3dktvcp0bg0uv?zs=GrIIQ85XSz-Xl_7Vz5j5sA"/>
+<station name="Radio Mango 91.9 FM" image="https://static.mytuner.mobi/media/tvos_radios/7myQULpncq.jpg" link="https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"/>
+<station name="Hindi Desi Bollywood Evergreen Hits" image="https://static.mytuner.mobi/media/tvos_radios/tdyvzqdftlwb.jpg" link="http://eu1.reliastream.com:7103/stream"/>
+<station name="Radio City Hind" image="https://static.mytuner.mobi/media/tvos_radios/vZNzLXx52E.png" link="http://cast5.asurahosting.com/proxy/spooler/stream"/>
+<station name="Goldy Mukesh" image="https://static.mytuner.mobi/media/tvos_radios/wxktvurhesyj.png" link="https://stream-140.zeno.fm/mrcz5sus1p8uv?zs=UeX1UzWbSTyQkYqY0t4SYw"/>
+<station name="Marathi Tarang मराठी तरंग" image="https://static.mytuner.mobi/media/tvos_radios/zvsgwckwcfkh.png" link="https://silverstream.radioca.st/;"/>
+<station name="Hits Of Bollywood" image="https://static.mytuner.mobi/media/tvos_radios/ed2wjbwyyepk.jpg" link="https://stream-142.zeno.fm/8ty8szwpwfeuv?zs=4zIQG3o5RSOvkq8d77qb6g"/>
+<station name="Radio Badal" image="https://static.mytuner.mobi/media/tvos_radios/dT3Pmm9EL6.png" link="https://stream-140.zeno.fm/nhrtcxg09u8uv?zs=arxTgW6bTAa11u0cFg6yig"/>
+<station name="Maayboli Radio" image="https://static.mytuner.mobi/media/tvos_radios/pbvmk8dnjuua.png" link="https://stream-146.zeno.fm/48kybvzrwfeuv?zs=ulUwW-6hRNaqF85pn_e2tQ"/>
+<station name="Goldy Cool " image="https://static.mytuner.mobi/media/tvos_radios/gjcph55dnnrz.png" link="https://stream-144.zeno.fm/hhfmh86tfm8uv?zs=BPmmB1WJQt-Pgxbzj36eUg"/>
 </channel>
