@@ -1,7 +1,57 @@
 <channel>
-<station name="Radio 1" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://149.56.195.94:8322/bolpunjabiradio"/>
-<station name="Radio 2" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://50.117.121.165/"/>
-<station name="Radio 3" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://62.138.2.128:8000/stream"/>
-<station name="Radio 4" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="http://relay.181.fm:8800/"/>
-<station name="Radio 5" image="https://cdn.pixabay.com/photo/2021/11/25/19/50/tape-6824489__340.jpg" link="https://ais-sa1.streamon.fm/7677_48k.aac/playlist.m3u8"/>
+<station name="إذاعة القرآن الكريم من القاهرة" image="https://static2.mytuner.mobi/media/tvos_radios/bzxz47udvt8h.jpeg" link="http://n12.radiojar.com/8s5u5tpdtwzuv?rj-tok=AAABjDvo2UwAMZ0SXe9JdajxNArj-ttl=5"/>
+<station name="Nogoum FM 100.6 (نجوم فم)" image="https://static2.mytuner.mobi/media/tvos_radios/kvZca3MVz3.png" link="https://audio.nrpstream.com/listen/nogoumfm/radio.mp3"/>
+<station name="On Sport FM" image="https://static2.mytuner.mobi/media/tvos_radios/9mzmhjknvyh8.png" link="https://carina.streamerr.co:2020/stream/OnSportFM"/>
+<station name="Sky News Arabia (سكاي نيوز عربية)" image="https://static2.mytuner.mobi/media/tvos_radios/9dnwpcmtdzgu.jpg" link="https://radio.skynewsarabia.com/stream/radio/skynewsarabia"/>
+<station name="Radio Mahatet Masr (محطة مصر)" image="https://static2.mytuner.mobi/media/tvos_radios/4hPpsMQRWM.png" link="https://s3.radio.co/s9cb11828c/listen"/>
+<station name="Nagham FM 105.3 (نغم إف إم)" image="https://static2.mytuner.mobi/media/tvos_radios/LLt5bQXRUx.jpg" link="https://ahmsamir.radioca.st/stream"/>
+<station name="El-Radio‎ 9090 (الراديو٩٠٩٠)" image="https://static2.mytuner.mobi/media/tvos_radios/ddvJvW8kCA.png" link="https://9090streaming.mobtada.com/9090FMEGYPT"/>
+<station name="90s Fm (تسعينات اف ام)" image="https://static2.mytuner.mobi/media/tvos_radios/w6C8abXm33.png" link="https://eu1.fastcast4u.com/proxy/prontofm?mp=%2F1"/>
+<station name="Sha3by 95 FM" image="https://static2.mytuner.mobi/media/tvos_radios/hn2zk9x8cb7s.png" link="https://radio95.radioca.st/;"/>
+<station name="تفسير الشعراوي" image="https://static2.mytuner.mobi/media/tvos_radios/4g99wretwyrr.png" link="http://quraan.us:9888/;*.mp3"/>
+<station name="QURAN" image="https://static2.mytuner.mobi/media/tvos_radios/gqd576zvdagj.jpg" link="http://s2.voscast.com:12312/;"/>
+<station name="Days Old FM" image="https://static2.mytuner.mobi/media/tvos_radios/ftshahyqhjur.png" link="https://stream-162.zeno.fm/xda10sbtsg0uv?zs=qa5P-cmzSTKYePbVR8ziYQ"/>
+<station name="Montecarlo al doualiya (مونت كارلو الدولية)" image="https://static2.mytuner.mobi/media/tvos_radios/rshfunvzm6mu.png" link="https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"/>
+<station name="Egyptian Holy Quran Radio (اذاعه القرآن الكريم المصريه)" image="https://static2.mytuner.mobi/media/tvos_radios/6ksnzkacwuxq.gif" link="http://n08.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1660216161rj-ttl=5rj-tok=AAABjDv2PZ0AHmbQybjBf4oshQ"/>
+<station name="Abdulbasit Abdulsamad WARSH" image="https://static2.mytuner.mobi/media/tvos_radios/xxexmuxtblaf.jpg" link="https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad"/>
+<station name="Arab Mix" image="https://static2.mytuner.mobi/media/tvos_radios/UY8eWdZyuL.png" link="https://stream-161.zeno.fm/wvqgc9kb1d0uv?zs=xZQ8-_uGRb2ke-YLaMthGg"/>
+<station name="Rotana FM (روتانا إف إم)" image="https://static2.mytuner.mobi/media/tvos_radios/xemw8sax5tqq.jpg" link="http://curiosity.shoutca.st:6035/;"/>
+<station name="Sputnik Arabic (عربي)" image="https://static2.mytuner.mobi/media/tvos_radios/efwtmkszmacf.png" link="https://icecast-rian.cdnvideo.ru/voicearb"/>
+<station name="Mega FM (ميجا إف إم)" image="https://static2.mytuner.mobi/media/tvos_radios/qsMHvb23Tu.jpg" link="http://nebula.shoutca.st:8211/mp3"/>
+<station name="Abderrahman As-Sudais" image="https://static2.mytuner.mobi/media/tvos_radios/7whccysvnu6u.jpg" link="https://betelgeuse.dribbcast.com/proxy/asudai?mp=%2Fstream"/>
+<station name="Nile FM (اف ام النيل)" image="https://static2.mytuner.mobi/media/tvos_radios/FLj473a3Z9.jpg" link="https://audio.nrpstream.com/listen/nile_fm/radio.mp3"/>
+<station name="Quran for the Heart القرآن للقلب" image="https://static2.mytuner.mobi/media/tvos_radios/SQnFkMfj5a.jpg" link="https://edge.mixlr.com/channel/rwumx"/>
+<station name="ArabMix" image="https://static2.mytuner.mobi/media/tvos_radios/rdmnmfkqckvm.jpg" link="https://stream-162.zeno.fm/na3vpvn10qruv?zs=25YKaEDoQfWDQfWr42Poow"/>
+<station name="Al Haya FM (راديو الحياة إف إم)" image="https://static2.mytuner.mobi/media/tvos_radios/Z9zpEDYK4X.png" link="http://live.hayafm.com:8000/;"/>
+<station name="قناة عمر عبد الكافي" image="https://static2.mytuner.mobi/media/tvos_radios/4Ucm9ymsaH.jpg" link="http://104.7.66.64:8007/;?icy=http"/>
+<station name="Abdulrahman AlMajed" image="https://static2.mytuner.mobi/media/tvos_radios/ywqtd2akw9jt.jpg" link="http://live.mp3quran.net:9726/"/>
+<station name="Radio Moga" image="https://static2.mytuner.mobi/media/tvos_radios/k6cpaycnzxyt.png" link="http://eu4.fastcast4u.com:5458/;.mp3"/>
+<station name="ERTU Al Quran Al Kareem (إداعة القرآن الكريم)" image="https://static2.mytuner.mobi/media/tvos_radios/APTGXzujpV.png" link="http://66.45.232.131:9994/;stream.mp3"/>
+<station name="Hits 88.2" image="https://static2.mytuner.mobi/media/tvos_radios/b6ybjy4cqrpb.png" link="https://radiohits882.radioca.st/;"/>
+<station name="Quran Tafsir by Sharawi and Nabulsi" image="https://static2.mytuner.mobi/media/tvos_radios/9TeajPC25m.jpg" link="http://104.7.66.64:8088/;?icy=http"/>
+<station name="Arab Mix" image="https://static2.mytuner.mobi/media/tvos_radios/xMzQTS9Tew.jpg" link="https://stream-161.zeno.fm/efx5psd00qruv?zs=CtHe5MpbQ86fuRklL7Tqrw"/>
+<station name="Arab DJ" image="https://static2.mytuner.mobi/media/tvos_radios/dysyyfj6whdr.png" link="http://stream-161.zeno.fm/na3vpvn10qruv?zs=S5UBGdJORUS3IT5F7xNa_Q"/>
+<station name="Radio Alwan FM (راديو ألوان أف إم)" image="https://static2.mytuner.mobi/media/tvos_radios/NwnyjKyuaJ.jpg" link="https://stream-155.zeno.fm/fhhhcrvxhchvv?zs=t5JDxFY9Q6u1xjIU1EBNqw"/>
+<station name="Banha City Hits (بنهة سيتي هيتس)" image="https://static2.mytuner.mobi/media/tvos_radios/jULYkfJtFh.jpg" link="http://5.9.140.203:14113/stream"/>
+<station name="MenRadioFm(راديو الرجال )" image="https://static2.mytuner.mobi/media/tvos_radios/MtEV8DfUMB.png" link="https://stream-160.zeno.fm/ebitxokyr7ptv?zs=jbGFOocnT1qBC4mrb5dE0A"/>
+<station name="Radio Hits 88.2 (راديو هيت)" image="https://static2.mytuner.mobi/media/tvos_radios/rkGCWJN9Db.png" link="https://radiohits882.radioca.st/;"/>
+<station name="El Gouna Radio (الكنة راديو)" image="https://static2.mytuner.mobi/media/tvos_radios/8D4m8FLSAA.png" link="http://82.201.132.237:8000/;"/>
+<station name="إذاعة نهر النيل" image="https://static2.mytuner.mobi/media/tvos_radios/v7qgCt9LYu.jpg" link="http://104.7.66.64:8087/;?icy=http"/>
+<station name="Abdul Hamid Kishk" image="https://static2.mytuner.mobi/media/tvos_radios/dFGy5gmTrV.jpg" link="http://104.7.66.64:8012/;?icy=http"/>
+<station name="Abdulrahman Alsudaes" image="https://static2.mytuner.mobi/media/tvos_radios/ed6ygrwxkkgd.jpg" link="http://live.mp3quran.net:9988/"/>
+<station name="Sawt Elrab صوت الرب" image="https://static2.mytuner.mobi/media/tvos_radios/ndz6bjaanbyy.png" link="http://66.70.249.70:5828/stream"/>
+<station name="Abdulbaset Abdulsamad with Ibrahim Walk Saheeh Intl" image="https://static2.mytuner.mobi/media/tvos_radios/vnhfcs6z4sqc.jpg" link="http://live.mp3quran.net:9746/"/>
+<station name="Copt4G Sermons إذاعه العظات" image="https://static2.mytuner.mobi/media/tvos_radios/vksk7uz9b8du.png" link="http://66.70.249.70:5832/;stream.mp3"/>
+<station name="Muhammad Metwalli al-Sha’rawi Channel" image="https://static2.mytuner.mobi/media/tvos_radios/Kzwvkyhggp.jpg" link="http://104.7.66.64:8088/;?icy=http"/>
+<station name="St. Mary and St. Athanasius Church كنيسة السيدة العذراء والقديس أثناسيوس الرسولي بمدينة نصر" image="https://static2.mytuner.mobi/media/tvos_radios/KVtvC6Ta6T.jpg" link="https://streaming.smsachurch.org/listen/smsachurch/radio.mp3"/>
+<station name="Abdullah AlMattrod Radio" image="https://static2.mytuner.mobi/media/tvos_radios/vx66x5sxjtb4.jpg" link="http://live.mp3quran.net:9858/"/>
+<station name="Copt4G Church إذاعه الكنيسه (الحان و قداسات)" image="https://static2.mytuner.mobi/media/tvos_radios/kgmcmudqvcyg.png" link="http://66.70.249.70:5736/;stream.mp3"/>
+<station name="Akbat Al'alam Radio إذاعه اقباط العالم" image="https://static2.mytuner.mobi/media/tvos_radios/m8tbh6ggetb2.png" link="https://usa18.fastcast4u.com/proxy/copt4gmain?mp=%2F1"/>
+<station name="Cairo Business Radio" image="https://static2.mytuner.mobi/media/tvos_radios/FLe3tpbL9M.png" link="https://listen.radioking.com/radio/600016/stream/661183"/>
+<station name="Nota Masria" image="https://static2.mytuner.mobi/media/tvos_radios/s9qhsfgfmhav.png" link="http://78.129.185.84:13066/live"/>
+<station name="Abdullah Basfer Radio" image="https://static2.mytuner.mobi/media/tvos_radios/rxhjug9hfyce.jpg" link="http://live.mp3quran.net:9954/"/>
+<station name="Heliopolis Family" image="https://static2.mytuner.mobi/media/tvos_radios/r5zcxu3Hf2.png" link="https://mars.streamerr.co/8176/stream"/>
+<station name="Abdulrasheed Soufi Rewayat Assosi An Abi Amr" image="https://static2.mytuner.mobi/media/tvos_radios/8cvjwfyamybs.jpg" link="http://live.mp3quran.net:9866/"/>
+<station name="AbdulBaset AbdulSamad with Naeem Sultan Pickthall" image="https://static2.mytuner.mobi/media/tvos_radios/sscfc8ajqdpd.jpg" link="http://live.mp3quran.net:9748/"/>
+<station name="Abdulhadi Kanakeri" image="https://static2.mytuner.mobi/media/tvos_radios/efmdbth37zum.jpg" link="http://live.mp3quran.net:9850/"/>
 </channel>
