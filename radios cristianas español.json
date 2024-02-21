@@ -71,6 +71,29 @@
 		{
 			"term": "El Salvador",
 			"image": "https://i.ibb.co/W0TH1BX/El-Salvador.png"
+		{
+			"term": "Guatemala",
+			"image": "https://i.ibb.co/VmMc1Kf/Guatemala.png"
+		},
+		{
+			"term": "Honduras",
+			"image": "https://i.ibb.co/VqPDdkk/Honduras.png"
+		}
+		,{
+			"term": "México",
+			"image": "https://i.ibb.co/PcWRhc4/M-xico.png"
+		},
+		{
+			"term": "Nicaragua",
+			"image": "https://i.ibb.co/CPGbdXT/Nicaragua.png"
+		},
+		{
+			"term": "Perú",
+			"image": "https://i.ibb.co/3MgYc0s/Per.png"
+		},
+		{
+			"term": "Venezuela",
+			"image": "https://i.ibb.co/Wpr7vzz/Venezuela.png"		
 		}
 	]
 }
