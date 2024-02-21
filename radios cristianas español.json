@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "xxxxxx",
+		"blogger_id": "4506885698329690328",
 		"api_key": "xxx"
 	},
 	"app": {
@@ -18,59 +18,59 @@
 		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
-		"admob_publisher_id": "pub-3940256099942544",
-		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
-		"ad_manager_banner_unit_id": "/6499/example/banner",
-		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-		"ad_manager_native_unit_id": "/6499/example/native",
-		"ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
-		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+		"admob_publisher_id": "xxxxxx",
+		"admob_app_id": "xxxxx",
+		"admob_banner_unit_id": "xxxxx",
+		"admob_interstitial_unit_id": "xxxx",
+		"admob_native_unit_id": "xxxxx",
+		"admob_app_open_ad_unit_id": "xxxx",
+		"ad_manager_banner_unit_id": "0",
+		"ad_manager_interstitial_unit_id": "0",
+		"ad_manager_native_unit_id": "0",
+		"ad_manager_app_open_ad_unit_id": "0",
+		"fan_banner_unit_id": "0",
+		"fan_interstitial_unit_id": "0",
+		"fan_native_unit_id": "0",
 		"startapp_app_id": "0",
-		"unity_game_id": "4089993",
-		"unity_banner_placement_id": "banner",
-		"unity_interstitial_placement_id": "video",
+		"unity_game_id": "0",
+		"unity_banner_placement_id": "0",
+		"unity_interstitial_placement_id": "0",
 		"applovin_banner_ad_unit_id": "0",
 		"applovin_interstitial_ad_unit_id": "0",
 		"applovin_native_ad_manual_unit_id": "0",
 		"applovin_banner_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
-		"ironsource_app_key": "85460dcd",
+		"ironsource_app_key": "0",
 		"ironsource_banner_placement_name": "DefaultBanner",
-		"ironsource_interstitial_placement_name": "DefaultInterstitial",
+		"ironsource_interstitial_placement_name": "0",
 		"interstitial_ad_interval": 3,
 		"native_ad_interval": 8,
 		"native_ad_index": 3
 	},
 	"labels": [
 		{
-			"term": "Culture",
-			"image": "https://i.ibb.co/56V8sP2/culture.jpg"
+			"term": "Argentina",
+			"image": "https://i.ibb.co/M9kxr4K/argentina.png"
 		},
 		{
-			"term": "Education",
-			"image": "https://i.ibb.co/xHG4KLW/education.jpg"
+			"term": "Chile",
+			"image": "https://i.ibb.co/qWcQqDN/chile.png"
 		},
 		{
-			"term": "Entertainment",
-			"image": "https://i.ibb.co/fCCTyCd/entertainment.jpg"
+			"term": "Colombia",
+			"image": "https://i.ibb.co/72KC4dt/Colombia.png"
 		},
 		{
-			"term": "Misc",
-			"image": "https://i.ibb.co/mv0cpPk/misc.jpg"
+			"term": "Costa Rica",
+			"image": "https://i.ibb.co/74wPp4s/Costa-Rica.png"
 		},
 		{
-			"term": "National",
-			"image": "https://i.ibb.co/X4kPSy4/national.jpg"
+			"term": "Ecuador",
+			"image": "https://i.ibb.co/j4fPxWW/Ecuador.png"
 		},
 		{
-			"term": "World",
-			"image": "https://i.ibb.co/z7JNB8v/world.jpg"
+			"term": "El Salvador",
+			"image": "https://i.ibb.co/W0TH1BX/El-Salvador.png"
 		}
 	]
 }
