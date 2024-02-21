@@ -6,7 +6,7 @@
 	"app": {
 		"status": "1",
 		"report_email": "youremail@gmail.com",
-		"custom_label_list": "false",
+		"custom_label_list": "true",
 		"song_metadata": "true",
 		"image_album_art": "true",
 		"blur_radio_background": "false",
