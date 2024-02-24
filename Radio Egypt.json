@@ -1,0 +1,76 @@
+{
+	"blog": {
+		"blogger_id": "3319030840529419829",
+		"api_key": "AIzaSyBE2y3B28ZXgKCJedXLVQUsO-SyyBoPJjk"
+	},
+	"app": {
+		"status": "1",
+		"report_email": "appworld-technical@hotmail.com",
+		"custom_label_list": "false",
+		"song_metadata": "true",
+		"image_album_art": "true",
+		"blur_radio_background": "true",
+		"privacy_policy_url": "https://sites.google.com/view/privacy-policy-radio-egypt/inicio",
+		"more_apps_url": "https://play.google.com/store/apps/dev?id=4811777860613965414",
+		"redirect_url": ""
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3251438469471899",
+		"admob_app_id": "ca-app-pub-3251438469471899~6934294575",
+		"admob_banner_unit_id": "ca-app-pub-3251438469471899/9376625088",
+		"admob_interstitial_unit_id": "ca-app-pub-3251438469471899/8063543414",
+		"admob_native_unit_id": "ca-app-pub-3251438469471899/9601337435",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3251438469471899/8511617040",
+		"ad_manager_banner_unit_id": "0",
+		"ad_manager_interstitial_unit_id": "0",
+		"ad_manager_native_unit_id": "0",
+		"ad_manager_app_open_ad_unit_id": "0",
+		"fan_banner_unit_id": "0",
+		"fan_interstitial_unit_id": "0",
+		"fan_native_unit_id": "0",
+		"startapp_app_id": "0",
+		"unity_game_id": "0",
+		"unity_banner_placement_id": "0",
+		"unity_interstitial_placement_id": "0",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"ironsource_app_key": "0",
+		"ironsource_banner_placement_name": "0",
+		"ironsource_interstitial_placement_name": "0",
+		"interstitial_ad_interval": 3,
+		"native_ad_interval": 8,
+		"native_ad_index": 3
+	},
+	"labels": [
+		{
+			"term": "Culture",
+			"image": "https://i.ibb.co/56V8sP2/culture.jpg"
+		},
+		{
+			"term": "Education",
+			"image": "https://i.ibb.co/xHG4KLW/education.jpg"
+		},
+		{
+			"term": "Entertainment",
+			"image": "https://i.ibb.co/fCCTyCd/entertainment.jpg"
+		},
+		{
+			"term": "Misc",
+			"image": "https://i.ibb.co/mv0cpPk/misc.jpg"
+		},
+		{
+			"term": "National",
+			"image": "https://i.ibb.co/X4kPSy4/national.jpg"
+		},
+		{
+			"term": "World",
+			"image": "https://i.ibb.co/z7JNB8v/world.jpg"
+		}
+	]
+}
