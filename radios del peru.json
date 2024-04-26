@@ -1,12 +1,12 @@
 {
 	"blog": {
 		"blogger_id": "184981795245865107",
-		"api_key": "XXXXXXXXXXXXXXXXXXXXXXXXXX"
+		"api_key": "AIzaSyBJ9EfxH_ECK_K-4i29QJBUL-Qkl5Kz1ic"
 	},
 	"app": {
 		"status": "1",
 		"report_email": "appworld-technical@hotmail.com",
-		"custom_label_list": "true",
+		"custom_label_list": "false",
 		"song_metadata": "true",
 		"image_album_art": "true",
 		"blur_radio_background": "false",
