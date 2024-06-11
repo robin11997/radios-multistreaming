@@ -1,7 +1,7 @@
 {
 	"blog": {
-		"blogger_id": "184981795245865107",
-		"api_key": "AIzaSyBJ9EfxH_ECK_K-4i29QJBUL-Qkl5Kz1ic"
+		"blogger_id": "3817511219979102289",
+		"api_key": "AIzaSyDzL9UJWg5ce_5cmoaraJ6VivqGIzqIbKE"
 	},
 	"app": {
 		"status": "1",
@@ -18,13 +18,13 @@
 		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
-		"admob_publisher_id": "",
-		"admob_app_id": "",
-		"admob_banner_unit_id": "",
-		"admob_interstitial_unit_id": "",
-		"admob_native_unit_id": "",
-		"admob_app_open_ad_unit_id": "",
-		"ad_manager_banner_unit_id": "",
+		"admob_publisher_id": "pub-3251438469471899",
+		"admob_app_id": "ca-app-pub-3251438469471899~7160174560",
+		"admob_banner_unit_id": "ca-app-pub-3251438469471899/2378131496",
+		"admob_interstitial_unit_id": "ca-app-pub-3251438469471899/1065049820",
+		"admob_native_unit_id": "ca-app-pub-3251438469471899/9849712810",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3251438469471899/8751968154",
+		"ad_manager_banner_unit_id": "0",
 		"ad_manager_interstitial_unit_id": "/0",
 		"ad_manager_native_unit_id": "0",
 		"ad_manager_app_open_ad_unit_id": "0",
@@ -49,12 +49,12 @@
 	},
 	"labels": [
 		{
-			"term": "80s",
-			"image": "https://i.ibb.co/VTYpbk9/80s.png"
+			"term": "Amazonas",
+			"image": "https://shalom.org.pe/wp-content/uploads/2023/06/AMAZONAS.png"
 		},
 		{
-			"term": "90s",
-			"image": "https://i.ibb.co/fxhJ3m2/90s.png"
+			"term": "Ancash",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7HsNeAw2eDQ1ZslmZ00oI-liqlrQdFkQZA&usqp=CAU"
 		},
 		{
 			"term": "Latino ",
