@@ -49,21 +49,28 @@
 	},
 	"labels": [
 		{
-			"term": "Amazonas",
-			"image": "https://shalom.org.pe/wp-content/uploads/2023/06/AMAZONAS.png"
+			"term": "Culture",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
 		},
 		{
-			"term": "Ancash",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7HsNeAw2eDQ1ZslmZ00oI-liqlrQdFkQZA&usqp=CAU"
+			"term": "Education",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
 		},
 		{
-			"term": "Latino ",
-			"image": "https://i.ibb.co/R0Rk9mf/latino.png"
+			"term": "Entertainment",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/entertainment.jpg"
 		},
 		{
-			"term": "Noticias",
-			"image": "https://i.ibb.co/c8QXYNn/noticias.png"
+			"term": "Misc",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/misc.jpg"
 		},
-		
+		{
+			"term": "National",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/national.jpg"
+		},
+		{
+			"term": "World",
+			"image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/world.jpg"
+		}
 	]
 }
